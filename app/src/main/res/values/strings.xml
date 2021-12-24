@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyGPSTrakingApp</string>
+    <string name="new_waypoint">New Waypoint</string>
+    <string name="show_waypoint_list">Show WAYPOINT List</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="lat">Lat:</string>
+    <string name="lon">lon:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="_0_00">0.00</string>
+</resources>
